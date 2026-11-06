@@ -24,8 +24,8 @@ La skill no ejecuta código, no accede a claves y no llama a modelos. Sus instru
 
 ## Referencia en uso
 
-- [Workshop: Tu próximo equipo no es humano](https://mayrascript.github.io/golden-rentals-workshop/)
-- [Repositorio del workshop](https://github.com/mayrascript/golden-rentals-workshop)
+- [Workshop: Tu próximo equipo no es humano](https://mayrascript.github.io/multiagent-adk-workshop/)
+- [Repositorio del workshop](https://github.com/mayrascript/multiagent-adk-workshop)
 - [Guía de marca y procedencia](skills/mayrascript-brand/references/brand-guide.md)
 
 Guarda el commit de origen cuando copies la skill a otro proyecto. Para actualizarla, revisa los cambios, sustituye la copia y comprueba ambos temas y tamaños de pantalla.
